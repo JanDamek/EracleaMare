@@ -1,0 +1,18 @@
+Stranka:
+  Stranka_1:
+    baner1_img: /uploads//bannery/banner_bus.jpg
+    baner1_img_title: 'Autobusová doprava do Duna Verde'
+    baner1_img_alt: 'Autobusová doprava do Duna Verde'
+    baner1_link: 'http://www.caitalia.cz/doprava/autobusem.html'
+    baner2_img: ''
+    baner2_img_title: ''
+    baner2_img_alt: ''
+    baner2_link: ''
+    baner3_img: /uploads//bannery/kurzy_italstiny.jpg
+    baner3_img_title: 'Kurzy italštiny Praha - Societa Dante Alighieri'
+    baner3_img_alt: 'Kurzy italštiny Praha - Societa Dante Alighieri'
+    baner3_link: http://www.dantepraga.cz
+    
+Setting:
+  Setting_1:
+    SiteName: EracleMare    
